@@ -17,3 +17,10 @@ p.name {
     border-right: 5px solid yellow;
     text-align: center;   
 }
+
+p.job {
+    font-size: 4em;
+    color: yellow;
+    text-align: center;
+    
+}
